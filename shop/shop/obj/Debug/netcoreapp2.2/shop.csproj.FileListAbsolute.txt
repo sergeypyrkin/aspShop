@@ -1,0 +1,14 @@
+C:\Users\Programmist\Desktop\aspShop\shop\shop\bin\Debug\netcoreapp2.2\shop.deps.json
+C:\Users\Programmist\Desktop\aspShop\shop\shop\bin\Debug\netcoreapp2.2\shop.runtimeconfig.json
+C:\Users\Programmist\Desktop\aspShop\shop\shop\bin\Debug\netcoreapp2.2\shop.runtimeconfig.dev.json
+C:\Users\Programmist\Desktop\aspShop\shop\shop\bin\Debug\netcoreapp2.2\shop.dll
+C:\Users\Programmist\Desktop\aspShop\shop\shop\bin\Debug\netcoreapp2.2\shop.pdb
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.csprojAssemblyReference.cache
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.csproj.CoreCompileInputs.cache
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.RazorAssemblyInfo.cache
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.RazorAssemblyInfo.cs
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.AssemblyInfoInputs.cache
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.AssemblyInfo.cs
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.RazorTargetAssemblyInfo.cache
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.dll
+C:\Users\Programmist\Desktop\aspShop\shop\shop\obj\Debug\netcoreapp2.2\shop.pdb
