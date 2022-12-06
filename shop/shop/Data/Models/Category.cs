@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 
 namespace shop.Data.Models
 {
+
+    //категории
     public class Category
     {
         public int id { get; set; }

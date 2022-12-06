@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using shop.Data.interfaces;
+using shop.Data.mocks;
 
 namespace shop
 {
@@ -17,6 +19,9 @@ namespace shop
         {
 
             services.AddMvc();
+            services.AddTransient<IAllCars, MockCars>();
+            services.AddTransient<ICarsCategory, MockCategory>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -27,6 +32,8 @@ namespace shop
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
+
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace shop.Data.interfaces
 {
-    interface ICarsCategory
+    public interface ICarsCategory
     {
         IEnumerable<Category> AllCategories { get; }
     }
+
+
+
 }

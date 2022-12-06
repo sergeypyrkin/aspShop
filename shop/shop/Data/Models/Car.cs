@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 
 namespace shop.Data.Models
 {
+
+    //машины
     public class Car
     {
 
